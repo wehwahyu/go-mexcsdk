@@ -1,4 +1,6 @@
+github.com/Masterminds/semver/v3 v3.1.1 h1:hLg3sBzpNErnxhQtUy/mmLR2I9foDujNK030IGemrRc=
 github.com/Masterminds/semver/v3 v3.1.1/go.mod h1:VPu/7SZ7ePZ3QOrcuXROw5FAcLl4a0cBrbBpGY/8hQs=
+github.com/aws/jsii-runtime-go v1.44.1 h1:/bGk7MsNMYJxbMnjrEtaVP5KJ2TTrZbHR4bxaLNHY8M=
 github.com/aws/jsii-runtime-go v1.44.1/go.mod h1:6tZnlstx8bAB3vnLFF9n8bbkI//LDblAek9zFyMXV3E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=

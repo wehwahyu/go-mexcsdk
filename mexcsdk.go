@@ -2,7 +2,7 @@
 package mexcsdk
 
 import (
-	_init_ "mexc-sdk/mexcsdk/jsii"
+	_init_ "github.com/wehwahyu/go-mexcsdk/jsii"
 
 	_jsii_ "github.com/aws/jsii-runtime-go/runtime"
 )
